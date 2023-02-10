@@ -6,3 +6,5 @@ echo "ALX"
 echo "School" 
 #!/bin/bash
 echo "School" 
+#!/bin/bash
+echo "ALX School" 
